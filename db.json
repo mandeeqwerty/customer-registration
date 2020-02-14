@@ -1,0 +1,212 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "user": {
+        "Business_name": "qqq",
+        "Customer_code": "12222112",
+        "Address": "qq",
+        "Area": "qq",
+        "Pin_code": "34",
+        "City": "111",
+        "State": "Trichi",
+        "First_name": "",
+        "Last_name": "22",
+        "Mobile_no": "222222222222222",
+        "Landline_no": "2221112222",
+        "Email_id": "a@gmail.com",
+        "Customer_cart": "",
+        "Overall_purchase_grocery_MT": "",
+        "Overall_purchase_grocery_value": "12",
+        "Credit_limit": "122",
+        "Credit_days": "222",
+        "Next_visit_plan": "",
+        "Remark": "12222",
+        "selectedOption": {
+          "value": "Madurai",
+          "label": "Madurai"
+        },
+        "selectedOption1": {
+          "value": "Madurai",
+          "label": "Madurai"
+        },
+        "selectedOption2": {
+          "value": "purchasemanager",
+          "label": "purchasemanager"
+        },
+        "selectedOption3": {
+          "value": "Bakeries",
+          "label": "Bakeries"
+        },
+        "selectedOption4": {
+          "value": "Std",
+          "label": "Std"
+        },
+        "selectedOption5": "",
+        "selectedOption6": "",
+        "selectedOption7": "",
+        "selectedOption8": "",
+        "selectedOption9": "",
+        "selectedOption10": "",
+        "selectedOption11": "",
+        "selectedOption12": "",
+        "selectedOption13": "",
+        "selectedOption14": "",
+        "selectedOption15": "",
+        "selectedOption16": "",
+        "selectedOption17": "",
+        "selectedOption18": "",
+        "selectedOption19": "",
+        "selectedOption20": "",
+        "selectedOption21": "",
+        "selectedOptio22": "",
+        "selectedOption23": "",
+        "selectedOption24": "",
+        "selectedOption25": "",
+        "selectedOption26": "",
+        "selectedOption27": "",
+        "selectedOption28": "",
+        "selectedOption29": {
+          "value": "5kg",
+          "label": "5kg"
+        },
+        "selectedOption30": "",
+        "selectedOption31": "",
+        "selectedOption32": "",
+        "selectedOption33": "",
+        "selectedOption34": "",
+        "selectedOption35": "",
+        "selectedOption36": "",
+        "selectedOption37": "",
+        "selectedOption38": "",
+        "selectedOption39": "",
+        "selectedOption40": "",
+        "selectedOption41": "",
+        "selectedOption42": "",
+        "selectedOption43": "",
+        "selectedOption44": "",
+        "selectedOption45": "",
+        "selectedOption46": "",
+        "selectedOption47": "",
+        "selectedOption48": "",
+        "selectedOption49": "",
+        "selectedOption50": "",
+        "selectedOption51": "",
+        "selectedOption52": "",
+        "selectedOption53": "",
+        "Brand": "22222",
+        "Brand1": "",
+        "Brand2": "",
+        "Brand3": "",
+        "Brand4": "",
+        "Brand5": "",
+        "Brand6": "",
+        "Brand7": "",
+        "Brand8": "",
+        "Brand9": "",
+        "Brand10": "",
+        "Brand11": "",
+        "Brand12": "",
+        "Brand13": "",
+        "Brand14": "",
+        "Brand15": "",
+        "Brand16": "",
+        "Brand17": "",
+        "Brand18": "",
+        "Brand19": "",
+        "Brand20": "",
+        "Brand21": "",
+        "Brand22": "",
+        "Qtymonth": "222",
+        "Qtymonth1": "",
+        "Qtymonth2": "",
+        "Qtymonth3": "",
+        "Qtymonth4": "",
+        "Qtymonth5": "",
+        "Qtymonth6": "",
+        "Qtymonth7": "",
+        "Qtymonth8": "",
+        "Qtymonth9": "",
+        "Qtymonth10": "",
+        "Qtymonth11": "",
+        "Qtymonth12": "",
+        "Qtymonth13": "",
+        "Qtymonth14": "",
+        "Qtymonth15": "",
+        "Qtymonth16": "",
+        "Qtymonth17": "",
+        "Qtymonth18": "",
+        "Qtymonth19": "",
+        "Qtymonth20": "",
+        "Qtymonth21": "",
+        "Qtymonth22": "",
+        "Exprate": "22",
+        "Exprate1": "",
+        "Exprate2": "",
+        "Exprate3": "",
+        "Exprate4": "",
+        "Exprate5": "",
+        "Exprate6": "",
+        "Exprate7": "",
+        "Exprate8": "",
+        "Exprate9": "",
+        "Exprate10": "",
+        "Exprate11": "",
+        "Exprate12": "",
+        "Exprate13": "",
+        "Exprate14": "",
+        "Exprate15": "",
+        "Exprate16": "",
+        "Exprate17": "",
+        "Exprate18": "",
+        "Exprate19": "",
+        "Exprate20": "",
+        "Exprate21": "",
+        "Exprate22": "",
+        "Exprate23": "",
+        "checkboxes": [
+          {
+            "label": "Wholesale",
+            "value": "Wholesale",
+            "checked": true
+          },
+          {
+            "label": "Retailer",
+            "value": "Retailer",
+            "checked": true
+          },
+          {
+            "label": "bigbasket",
+            "value": "bigbasket",
+            "checked": true
+          },
+          {
+            "label": "Jumbotail",
+            "value": "Jumbotail",
+            "checked": true
+          },
+          {
+            "label": "uddan",
+            "value": "uddan",
+            "checked": true
+          }
+        ]
+      },
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
