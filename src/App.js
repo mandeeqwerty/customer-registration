@@ -1,5 +1,5 @@
 
-import React, {Component, useState, useEffect } from 'react';
+import React, {Component } from 'react';
 import CheckboxGroup from './CheckboxGroup';
 import 'semantic-ui-css/semantic.min.css'
 import "./App.css";
@@ -313,7 +313,6 @@ class App extends Component {
         Exprate21:"",
         Exprate22:"",
         Exprate23:"",
-        Exprate23:"",
       },
       checkboxes: [
         {
@@ -533,7 +532,6 @@ class App extends Component {
         Exprate20:this.state.Exprate20,  
         Exprate21:this.state.Exprate21,  
         Exprate22:this.state.Exprate22,  
-        Exprate23:this.state.Exprate23,  
         checkboxes:this.state.checkboxes
  
       };
